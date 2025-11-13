@@ -1,7 +1,7 @@
 listener_01:
   address: 0.0.0.0:8081
   address_v6: 'null'
-  max_players: 60
+  max_players: 12
   tab_list: GLOBAL_PING
   default_server: lobby
   force_default_server: false
@@ -10,8 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&aEaglerCraft Server github.com/ShadowNetworkDevs'
-  - '&7Created By Ryan Norshare! Version: &c1.20.5'
+  - how deep is a 20 foot hole?
   allow_motd: true
   allow_query: true
   min_minecraft_protocol: 47
